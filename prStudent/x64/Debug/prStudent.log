@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Huawei\Downloads\prStudent\prStudent\Main.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Huawei\Downloads\prStudent\prStudent\Main.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Huawei\Downloads\prStudent\prStudent\Main.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Huawei\Downloads\prStudent\prStudent\Sort.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Huawei\Downloads\prStudent\prStudent\Main.cpp(47,23): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  prStudent.vcxproj -> C:\Users\Huawei\Downloads\prStudent\x64\Debug\prStudent.exe
